@@ -1,4 +1,4 @@
-package org.example;
+package org.example.pilas;
 
 import java.util.Scanner;
 import java.util.Stack;
