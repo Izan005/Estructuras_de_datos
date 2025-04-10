@@ -39,12 +39,12 @@ public class Bus {
 
         StringBuilder sb = new StringBuilder();
         sb.append("-".repeat(117)).append("\n");
-        sb.append(" ".repeat(n1)).append("_______________ ").append(" ".repeat(100 - n1)).append("|\n");
+        sb.append(" ".repeat(n1)).append("_______________ ").append(" ".repeat(100 - n1)).append(" |\n");
         sb.append(" ".repeat(n1)).append("|__|__|__|__|__|___ ").append(" ".repeat(TAM - n1)).append("|\n");
         sb.append(" ".repeat(n1)).append("|   AUTOBUS 1     |)").append(" ".repeat(TAM - n1)).append("|\n");
         sb.append(" ".repeat(n1)).append("|~~~@~~~~~~~~~@~~~|)").append(" ".repeat(TAM - n1)).append("|\n");
         sb.append("-".repeat(117)).append("\n");
-        sb.append(" ".repeat(n2)).append("_______________ ").append(" ".repeat(100 - n2)).append("|\n");
+        sb.append(" ".repeat(n2)).append("_______________ ").append(" ".repeat(100 - n2)).append(" |\n");
         sb.append(" ".repeat(n2)).append("|__|__|__|__|__|___ ").append(" ".repeat(TAM - n2)).append("|\n");
         sb.append(" ".repeat(n2)).append("|   AUTOBUS 2     |)").append(" ".repeat(TAM - n2)).append("|\n");
         sb.append(" ".repeat(n2)).append("|~~~@~~~~~~~~~@~~~|)").append(" ".repeat(TAM - n2)).append("|\n");
